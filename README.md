@@ -25,3 +25,10 @@ NPL - The Necessary Public License v1
 
 Thats it.
 
+##TL;DR version to include into files
+
+	/**********************************************************
+	 * <program name> Copyleft <year> <author> <optional-email>
+	 * Licensed under the NPL v1 
+	 * <https//github.com/mspringer/NPL>
+	 *********************************************************/
