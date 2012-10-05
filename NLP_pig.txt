@@ -1,8 +1,8 @@
 ECESSARY-nay UBLIC-pay ICENSE-lay 
 Ersion-vay 1, October-ay 2012 
 
-Opyleft-cay 2012 Ichael-may Inger-spray 
-Opyleft-cay 2012 Oel-jay Irchartz-kay 
+Copyleft 2012 Michael Springer <mail@michaelspringer.net>
+Copyleft 2012 Joel Kirchartz <me@jkirchartz.com>
 
 Everyone-ay is-ay ermitted-pay o-tay opy-cay and-ay istribute-day erbatim-vay or-ay odified-may 
 opies-cay of-ay is-thay icense-lay ocument-day, and-ay anging-chay it-ay is-ay allowed-ay as-ay ong-lay 
