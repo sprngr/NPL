@@ -16,7 +16,8 @@ NPL - The Necessary Public License v1
     TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
     0. This license is necessary, for people to understand they can use, modify, 
-        distribute, transfer, transform, mutate, or mutilate this work as they wish
+        distribute, transfer, buy, sell, credit, discredit, transform, mutate, or 
+        mutilate this work as they wish
 
     1. You have the right to do whatever you want with this work, or not, it's your 
         decision, why are you mixing ME up in all this?
