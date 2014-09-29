@@ -1,7 +1,5 @@
 # NPL - The Necessary Public License v1
 
-***
-
 ## Contents of the license
 
 ```
