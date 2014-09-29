@@ -33,7 +33,7 @@ Thats it.
 /**********************************************************
  * <program name> Copyleft <year> <author> <email>
  * Licensed under the NPL v1 
- * <https//github.com/sprngr/NPL>
+ * <https://github.com/sprngr/NPL>
  *********************************************************/
 ```
 
