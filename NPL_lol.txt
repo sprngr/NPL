@@ -1,8 +1,7 @@
 NECESARY PUBLIC LICENSE
 VERSHUN 1, OCTOBR 2012
 
-Copyleft 2012 Michael Springer <mail@michaelspringer.net>
-Copyleft 2012 Joel Kirchartz <me@jkirchartz.com>
+Copyleft <year> <author> <email>
 
 EVRYONE IZ PERMITTD 2 COPY AN DISTRIBUTE VERBATIM OR MODIFID
 COPIEZ OV DIS LICENSE DOCUMENT, AN CHANGIN IT ALLOWD AS LONG
